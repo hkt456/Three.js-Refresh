@@ -1,1 +1,3 @@
-*node_modules/*
+node_modules
+# I want to ignore every node_modules folder within every sub-folder of my project
+
